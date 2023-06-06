@@ -17,8 +17,8 @@ I am a Data Engineering Student. I am passionate about technologies and I love l
 ## :mag: Some info!
 - <img width="16" src="https://cdn-icons-png.flaticon.com/512/2151/2151353.png" alt="Morocco" /> I'm from Morocco
 - 🎓 I'm a Data Engineering student at Institut National des Postes et Télécommunications (INPT)
-- <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
-- 👯 I’m looking for a PFE internship in Data Science | Data Engineering
+<!-- - <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python -->
+<!-- - 👯 I’m looking for a PFE internship in Data Science | Data Engineering -->
 - ✉️ You can email me at: oukessou.houda@gmail.com
 <!--- 
 - 🔭 I’m currently working on ...
