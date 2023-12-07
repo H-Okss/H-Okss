@@ -1,10 +1,10 @@
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Houda OUKESSOU 👨‍💻
 
-<!-I am a Data Engineering Student. I am passionate about technologies and I love learning new things.
+<!-- I am a Data Engineering Student. I am passionate about technologies and I love learning new things.
 
 ![Profile views](https://gpvc.arturio.dev/H-Okss) -->
 
-![](https://komarev.com/ghpvc/?username=H-Okss)
+![](https://komarev.com/ghpvc/?username=H-Okss&color=blue)
 
 <!--
 ## :hammer: Things I work with
